@@ -1,0 +1,9 @@
+let inicialPais = prompt ("ingrese la inicial de un pais");
+let chatReunion = prompt ("ingrese su mensaje");
+let pesoBotella = prompt ("peso de la botella");
+let estadoServicio = prompt ("ingrese el estado de servicio");
+let nombCentro = prompt ("ingrese el npmbre del centro");
+let contraseñaYoutube = prompt ("ingrese contraseña de you tube");
+let celularNumero =  prompt ("ingresa el numero de tu celular");
+let nombPostre = prompt ("ingresa el nombre de un postre ");
+let keyDeProducto = prompt ("ingresa el key de un producto ");
